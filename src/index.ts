@@ -1,7 +1,6 @@
 import cors from 'cors';
 import express from 'express';
 import * as dotenv from 'dotenv';
-import mongoose from 'mongoose';
 import helmet from 'helmet';
 
 dotenv.config();
